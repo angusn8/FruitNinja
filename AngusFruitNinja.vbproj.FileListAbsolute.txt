@@ -1,0 +1,46 @@
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe.config
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.pdb
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.xml
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbprojResolveAssemblyReference.cache
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Form1.resources
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Resources.resources
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.GenerateResource.Cache
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.exe
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.xml
+Y:\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.pdb
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe.config
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.exe
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.xml
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.pdb
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.pdb
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.xml
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbprojResolveAssemblyReference.cache
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Form1.resources
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Resources.resources
+\\dasd-fs1\FacultyPublic\HS\Mylant\Computer Math\Student Work\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.GenerateResource.Cache
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe.config
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.exe
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.xml
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.pdb
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.pdb
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.xml
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbprojAssemblyReference.cache
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Form1.resources
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Resources.resources
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.GenerateResource.cache
+E:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.CoreCompileInputs.cache
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe.config
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.exe
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.pdb
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\bin\Debug\AngusFruitNinja.xml
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbprojAssemblyReference.cache
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Form1.resources
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.Resources.resources
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.GenerateResource.cache
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.vbproj.CoreCompileInputs.cache
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.exe
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.xml
+F:\Visual Basic\AngusFruitNinja\AngusFruitNinja\obj\Debug\AngusFruitNinja.pdb
